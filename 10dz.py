@@ -1,7 +1,6 @@
+# Требуется вывести все целые степени двойки (т.е. числа вида 2k), не превосходящие числа N.
 import random
-
 from random import randint
-
 amount_coin = int(input('введите количество монет: '))
 
 m = 0
